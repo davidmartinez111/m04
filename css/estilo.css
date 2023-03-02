@@ -1,0 +1,134 @@
+/*Header*/
+header{
+right:0;
+left:0;
+top:0;
+}
+.header a {
+    color:black;
+    text-decoration:none;
+    text-align:center;
+    padding: 10px;
+}
+.header a:hover{color:#7ABA96} /*Color al pasar por encima */
+
+/*Main*/
+main{
+float:left; /*desde donde empieza */
+width:36.5%; /*lo que ocupa la caja*/
+position:fixed;}
+.main a {
+    color:black;
+    text-decoration:none;
+    float:right
+    position:fixed}
+
+.main p{float:right;
+position:fixed;}
+
+.cuadrado {
+  width: 250px;
+  height: 300px;
+  background: #ecece9;
+  position:fixed;
+  float:bottom;
+}
+.apuntate{
+width:250px;
+height: 50px;
+background:#7ABA96;
+margin-top:8%;
+}
+
+.isagil{
+float:right}
+
+.libro{
+width:50%;
+}
+
+
+/*Aside */
+aside{
+float:right; /*desde donde empieza */
+width:63.5%; /*lo que ocupa la caja*/
+}
+
+/*RECETA 1 - PASTA */
+.receta1{
+left:0;
+right: 15px;
+position:fixed;
+left:36.5%}
+
+.pasta{ /*imagen*/
+padding-top:10px;
+width:35vh;
+height:15vh;}
+
+/*.receta1 b{   ¡texto!
+text-align:center;} */
+
+
+/*RECETA 2 - GALLETAS */
+.receta2{
+float:right;
+top:17.9%;
+right:40vh;
+position:fixed;}
+
+.galletas{ /*imagen*/
+padding-top:10px;
+width:35vh;
+height:15vh;
+top:0;}
+
+
+/*RECETA 3 - MIJO */
+.receta3{
+float:left;
+position:fixed;
+bottom:14%;}
+
+.mijo{ /*imagen*/
+padding-top:10px;
+width:35vh;
+height:15vh;}
+
+
+/*RECETA 4 - CALABACIN */
+.receta4{
+float:right;
+right:40vh;
+bottom: 14%;
+position:fixed;}
+
+.calabacin{ /*imagen*/
+padding-top:10px;
+width:35vh;
+height:15vh;}
+
+
+
+/*Footer*/
+footer {
+  text-align:center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right:0;
+  padding: 38px;
+  background-color: #333;
+
+}
+.footer a {
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+
+
+
