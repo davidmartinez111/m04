@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./listado.xsl"?>
+<recetas>
+  <receta>
+    <titulo>BEST SELLER: Durum Kebab</titulo>
+    <descripcion>El durum kebab es una deliciosa creación culinaria que combina una variedad de sabores y texturas en un paquete portátil y conveniente.
+              Con su suave y sabroso pan de pita relleno de tierna carne asada y una cremosa salsa de yogur, cada bocado es una explosión de sabor en la boca.
+              El durum kebab es un plato que nunca defrauda y siempre deja un sabor agradable en el paladar.</descripcion>
+    <img>/imagenes/durum.png</img>
+    <enlace>../Recetas/durum.html</enlace>
+  </receta>
+  <receta>
+    <titulo>BEST SELLER: Canelones de parmesano y gambas</titulo>
+    <descripcion>Los canelones de parmesano y gambas son una exquisita combinación de sabores y texturas que seguramente deleitarán los paladares más exigentes. La mezcla de texturas suaves y crujientes de la pasta y las gambas, y la cremosidad de la salsa de parmesano, hacen que cada bocado sea una experiencia gastronómica única.Este plato es perfecto para una cena elegante o una ocasión especial</descripcion>
+    <img>/imagenes/canelones.jpg</img>
+    <enlace>../Recetas/canelones.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Raviolis aceitosos</titulo>
+    <descripcion>Los raviolis aceitosos son una deliciosa opción de pasta en la que los raviolis recién cocidos se mezclan con un aceite de oliva de alta calidad, lo que resalta el sabor y la textura de la pasta.</descripcion>
+    <img>/imagenes/ravioliACEITOSO.jpg</img>
+    <enlace>../Recetas/raviolis.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Tacos</titulo>
+    <descripcion>Los tacos son una deliciosa opción de comida mexicana en la que una tortilla suave se rellena con carne, pollo, pescado o verduras, junto con una variedad de ingredientes como queso, guacamole, salsa y cilantro.</descripcion>
+    <img>/imagenes/tacos.jpg</img>
+    <enlace>../Recetas/tacos.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Tortilla de patatas jugosa</titulo>
+    <descripcion>La tortilla de patatas jugosa es un plato clásico español que combina huevos, patatas y cebolla. Su interior suave y jugoso es el resultado de cocinarlo a fuego lento, mientras que el exterior crujiente agrega una agradable textura. </descripcion>
+    <img>/imagenes/tortilla.jpg</img>
+    <enlace>../Recetas/tortilla.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Pulpo a feira</titulo>
+    <descripcion>El pulpo a feira es un plato tradicional de la gastronomía gallega, que consiste en pulpo cocido y cortado en rodajas, sazonado con pimentón y aceite de oliva.</descripcion>
+    <img>/imagenes/pulpoGallego.jpg</img>
+    <enlace>../Recetas/pulpo.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Paella NO valenciana</titulo>
+    <descripcion>La paella no valenciana es una versión mejorada de la valenciana, que se puede preparar con una variedad de ingredientes como mariscos, pollo, conejo o verduras. A menudo, esta versión es adaptada a los gustos y preferencias culinarias regionales o personales.</descripcion>
+    <img>/imagenes/paella.jpeg</img>
+    <enlace>../Recetas/paella.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Ensalada aesthetic</titulo>
+    <descripcion>La ensalada aesthetic es una ensalada colorida y creativa, que se presenta de forma atractiva para estimular los sentidos del gusto y la vista. Con ingredientes frescos, vibrantes y una combinación de sabores, esta ensalada es una opción saludable y deliciosa.</descripcion>
+    <img>/imagenes/ensalada.jpg</img>
+    <enlace>../Recetas/ensalada.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Calabacines rellenos de arroz negro y calabaza</titulo>
+    <descripcion>Estos calabacines rellenos de arroz negro y calabaza que te propongo hoy, son la última versión de los calabacines rellenos. Sorprendentes y necesarios si quieres dejar estupefactos a los invitados.</descripcion>
+    <img>/imagenes/calabacines.jpg</img>
+    <enlace>../Recetas/calabacines.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Mijo cremoso con lentejas, hortalizas y shiitake</titulo>
+    <descripcion>Un buen plato de mijo cremoso con lentejas y hortalizas es todo lo que necesitas para templar el cuerpo este invierno! Delicioso y fàcil!</descripcion>
+    <img>/imagenes/mijo.jpg</img>
+    <enlace>../Recetas/mijo.html</enlace>
+  </receta>
+    <receta>
+    <titulo>Pasta con salsa de coliflor y pimienta de Jamaica</titulo>
+    <descripcion>Una salsa vegana para la pasta, tan sabrosa y cremosa que resulta irresistible! Está elaborada con coliflor y con otros ingredientes vegetales, que la convierten en una opción deliciosa a la par que saludable</descripcion>
+    <img>/imagenes/Pasta.jpg</img>
+    <enlace>../Recetas/pasta.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Bocadillo de Calamares</titulo>
+    <descripcion>El bocadillo de calamares es una deliciosa opción de comida rápida española, en la que los calamares fritos se colocan en un pan crujiente y se sirven con alioli o mayonesa. Es un plato popular y satisfactorio que se puede disfrutar en cualquier momento del día.</descripcion>
+    <img>/imagenes/bocataCALAMARES.jpg</img>
+    <enlace>../Recetas/bocadillo.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Barritas de frambuesa</titulo>
+    <descripcion>Las barritas de frambuesa son un delicioso postre en el que una base de masa quebrada se cubre con una mezcla de frambuesas frescas, azúcar y harina. Una vez horneadas, estas barritas tienen un sabor dulce y frutal que las hace perfectas para cualquier ocasión.</descripcion>
+    <img>/imagenes/barritas.jpg</img>
+    <enlace>../Recetas/barritas.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Galletas de avena, rosa y lima</titulo>
+    <descripcion>Galletitas para San Valentín? Estas galletas ricas y crujientes, elaboradas con avena y con un rico sabor a rosa y lima son perfectas para celebrarlo!</descripcion>
+    <img>/imagenes/galletas.jpg</img>
+    <enlace>../Recetas/galletas.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Volcan de chocolate</titulo>
+    <descripcion>El coulant o volcan de chocolate es un postre de chocolate caliente y derretido con un centro líquido que se desliza al partirlo. Es un postre exquisito y elegante que se suele servir con una bola de helado de vainilla. Ideal para los amantes del chocolate.</descripcion>
+    <img>/imagenes/coulant.jpg</img>
+    <enlace>../Recetas/volcan.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Tiramisú</titulo>
+    <descripcion>El tiramisú es un postre italiano hecho con capas de bizcocho empapado en café y crema de mascarpone, espolvoreado con cacao en polvo. Es un postre suave y cremoso que es fácil de hacer y es una delicia para los amantes del café y el chocolate.</descripcion>
+    <img>/imagenes/tiramisu.jpg</img>
+    <enlace>../Recetas/tiramisu.html</enlace>
+  </receta>
+    <receta>
+    <titulo>BEST SELLER: Durum Kebab</titulo>
+    <descripcion>El durum kebab es una deliciosa creación culinaria que combina una variedad de sabores y texturas en un paquete portátil y conveniente.
+              Con su suave y sabroso pan de pita relleno de tierna carne asada y una cremosa salsa de yogur, cada bocado es una explosión de sabor en la boca.
+              El durum kebab es un plato que nunca defrauda y siempre deja un sabor agradable en el paladar.</descripcion>
+    <img>/imagenes/durum.png</img>
+    <enlace>../Recetas/durum.html</enlace>
+  </receta>
+  <receta>
+    <titulo>BEST SELLER: Canelones de parmesano y gambas</titulo>
+    <descripcion>Los canelones de parmesano y gambas son una exquisita combinación de sabores y texturas que seguramente deleitarán los paladares más exigentes. La mezcla de texturas suaves y crujientes de la pasta y las gambas, y la cremosidad de la salsa de parmesano, hacen que cada bocado sea una experiencia gastronómica única.Este plato es perfecto para una cena elegante o una ocasión especial</descripcion>
+    <img>/imagenes/canelones.jpg</img>
+    <enlace>../Recetas/canelones.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Raviolis aceitosos</titulo>
+    <descripcion>Los raviolis aceitosos son una deliciosa opción de pasta en la que los raviolis recién cocidos se mezclan con un aceite de oliva de alta calidad, lo que resalta el sabor y la textura de la pasta.</descripcion>
+    <img>/imagenes/ravioliACEITOSO.jpg</img>
+    <enlace>../Recetas/raviolis.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Tacos</titulo>
+    <descripcion>Los tacos son una deliciosa opción de comida mexicana en la que una tortilla suave se rellena con carne, pollo, pescado o verduras, junto con una variedad de ingredientes como queso, guacamole, salsa y cilantro.</descripcion>
+    <img>/imagenes/tacos.jpg</img>
+    <enlace>../Recetas/tacos.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Tortilla de patatas jugosa</titulo>
+    <descripcion>La tortilla de patatas jugosa es un plato clásico español que combina huevos, patatas y cebolla. Su interior suave y jugoso es el resultado de cocinarlo a fuego lento, mientras que el exterior crujiente agrega una agradable textura. </descripcion>
+    <img>/imagenes/tortilla.jpg</img>
+    <enlace>../Recetas/tortilla.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Pulpo a feira</titulo>
+    <descripcion>El pulpo a feira es un plato tradicional de la gastronomía gallega, que consiste en pulpo cocido y cortado en rodajas, sazonado con pimentón y aceite de oliva.</descripcion>
+    <img>/imagenes/pulpoGallego.jpg</img>
+    <enlace>../Recetas/pulpo.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Paella NO valenciana</titulo>
+    <descripcion>La paella no valenciana es una versión mejorada de la valenciana, que se puede preparar con una variedad de ingredientes como mariscos, pollo, conejo o verduras. A menudo, esta versión es adaptada a los gustos y preferencias culinarias regionales o personales.</descripcion>
+    <img>/imagenes/paella.jpeg</img>
+    <enlace>../Recetas/paella.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Ensalada aesthetic</titulo>
+    <descripcion>La ensalada aesthetic es una ensalada colorida y creativa, que se presenta de forma atractiva para estimular los sentidos del gusto y la vista. Con ingredientes frescos, vibrantes y una combinación de sabores, esta ensalada es una opción saludable y deliciosa.</descripcion>
+    <img>/imagenes/ensalada.jpg</img>
+    <enlace>../Recetas/ensalada.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Calabacines rellenos de arroz negro y calabaza</titulo>
+    <descripcion>Estos calabacines rellenos de arroz negro y calabaza que te propongo hoy, son la última versión de los calabacines rellenos. Sorprendentes y necesarios si quieres dejar estupefactos a los invitados.</descripcion>
+    <img>/imagenes/calabacines.jpg</img>
+    <enlace>../Recetas/calabacines.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Mijo cremoso con lentejas, hortalizas y shiitake</titulo>
+    <descripcion>Un buen plato de mijo cremoso con lentejas y hortalizas es todo lo que necesitas para templar el cuerpo este invierno! Delicioso y fàcil!</descripcion>
+    <img>/imagenes/mijo.jpg</img>
+    <enlace>../Recetas/mijo.html</enlace>
+  </receta>
+    <receta>
+    <titulo>Pasta con salsa de coliflor y pimienta de Jamaica</titulo>
+    <descripcion>Una salsa vegana para la pasta, tan sabrosa y cremosa que resulta irresistible! Está elaborada con coliflor y con otros ingredientes vegetales, que la convierten en una opción deliciosa a la par que saludable</descripcion>
+    <img>/imagenes/Pasta.jpg</img>
+    <enlace>../Recetas/pasta.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Bocadillo de Calamares</titulo>
+    <descripcion>El bocadillo de calamares es una deliciosa opción de comida rápida española, en la que los calamares fritos se colocan en un pan crujiente y se sirven con alioli o mayonesa. Es un plato popular y satisfactorio que se puede disfrutar en cualquier momento del día.</descripcion>
+    <img>/imagenes/bocataCALAMARES.jpg</img>
+    <enlace>../Recetas/bocadillo.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Barritas de frambuesa</titulo>
+    <descripcion>Las barritas de frambuesa son un delicioso postre en el que una base de masa quebrada se cubre con una mezcla de frambuesas frescas, azúcar y harina. Una vez horneadas, estas barritas tienen un sabor dulce y frutal que las hace perfectas para cualquier ocasión.</descripcion>
+    <img>/imagenes/barritas.jpg</img>
+    <enlace>../Recetas/barritas.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Galletas de avena, rosa y lima</titulo>
+    <descripcion>Galletitas para San Valentín? Estas galletas ricas y crujientes, elaboradas con avena y con un rico sabor a rosa y lima son perfectas para celebrarlo!</descripcion>
+    <img>/imagenes/galletas.jpg</img>
+    <enlace>../Recetas/galletas.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Volcan de chocolate</titulo>
+    <descripcion>El coulant o volcan de chocolate es un postre de chocolate caliente y derretido con un centro líquido que se desliza al partirlo. Es un postre exquisito y elegante que se suele servir con una bola de helado de vainilla. Ideal para los amantes del chocolate.</descripcion>
+    <img>/imagenes/coulant.jpg</img>
+    <enlace>../Recetas/volcan.html</enlace>
+  </receta>
+  <receta>
+    <titulo>Tiramisú</titulo>
+    <descripcion>El tiramisú es un postre italiano hecho con capas de bizcocho empapado en café y crema de mascarpone, espolvoreado con cacao en polvo. Es un postre suave y cremoso que es fácil de hacer y es una delicia para los amantes del café y el chocolate.</descripcion>
+    <img>/imagenes/tiramisu.jpg</img>
+    <enlace>../Recetas/tiramisu.html</enlace>
+  </receta>
+</recetas>
+
+
